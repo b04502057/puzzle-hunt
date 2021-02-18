@@ -7,8 +7,18 @@ h1 {
     text-align: center;
   }
 
+
+  
 #lock{
     display: none;
+}
+
+#q2{
+  display: none;
+}
+
+#q3{
+  display: none;
 }
 
 #colleft {
